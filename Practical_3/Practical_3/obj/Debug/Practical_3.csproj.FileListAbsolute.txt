@@ -1,0 +1,7 @@
+E:\COLLAGE_ACADEMICS\SEM_6_CONTENT\.Net\Practicals\Practical_3\Practical_3\bin\Debug\Practical_3.exe.config
+E:\COLLAGE_ACADEMICS\SEM_6_CONTENT\.Net\Practicals\Practical_3\Practical_3\bin\Debug\Practical_3.exe
+E:\COLLAGE_ACADEMICS\SEM_6_CONTENT\.Net\Practicals\Practical_3\Practical_3\bin\Debug\Practical_3.pdb
+E:\COLLAGE_ACADEMICS\SEM_6_CONTENT\.Net\Practicals\Practical_3\Practical_3\obj\Debug\Practical_3.csproj.AssemblyReference.cache
+E:\COLLAGE_ACADEMICS\SEM_6_CONTENT\.Net\Practicals\Practical_3\Practical_3\obj\Debug\Practical_3.csproj.CoreCompileInputs.cache
+E:\COLLAGE_ACADEMICS\SEM_6_CONTENT\.Net\Practicals\Practical_3\Practical_3\obj\Debug\Practical_3.exe
+E:\COLLAGE_ACADEMICS\SEM_6_CONTENT\.Net\Practicals\Practical_3\Practical_3\obj\Debug\Practical_3.pdb
